@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-simple-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rafaela-nasciment0/nodejs-simple-api.git",
+  "author": "rafaela-nasciment0 <rafaela.nascimento@liferay.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "dev": "node index.js"
+  }
+}
